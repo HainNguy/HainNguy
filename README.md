@@ -21,11 +21,8 @@ In Bezug auf meine **akademischen Interessen** liegt mein Fokus auf Software Eng
 
 </details>
 
-## Selbstbewertung der Wissenbereiche:
-
-
   
-<details><summary>Table of Knowledge Areas:</summary>
+<details><summary>Tabelle der Wissenbereiche:</summary>
 <br>
 Die nachfolgende Tabelle gibt einen Überblick über meine Selbstbewertung in verschiedenen Software-Engineering-Bereichen, die auf dem Modul der Softwaretechnik in meinem Studium basieren.
   
