@@ -6,18 +6,18 @@
  
  <details><summary>Fähigkeiten und persönliche Eigenschaften:</summary>
    <br>
- Momentan befinde ich mich im 5. Fachsemester, in dem ich bisher folgende Leistungen erbracht habe:
+ Momentan befinde ich mich im 5. Fachsemester, in dem ich bisher folgende **Leistungen** erbracht habe:
    
    - Die grundlegenden Softwaretechniken von der Software-Spezifikation bis zur Software-Evolution, darunter UML-Modelle, Agile Entwicklungsmethoden, Scrum, Projektmanagement, Design Patterns, Git, CI/CD, Testtechniken und DevOps.
    - Teilnahme am Softwareentwicklung-Praktikum an der LMU: Entwicklung eines Brettspiels namens „Love Letter“ in Java (objektorientierte Programmierung). Weitere Details auf meiner GitHub-Seite.
    - Verschiedene Java-Eigenprojekte
    - Die Grundlagen des Datenbanksystems bzw. Datenbankentwurfs, inklusive SQL.
 
-Meine Hobbys drehen sich vor allem um Tischtennis, Badminton und Schwimmen. In der Schule habe ich erfolgreich an verschiedenen Wettbewerben in Badminton und Tischtennis teilgenommen und auch einige gewonnen. Über mehrere Jahre hinweg war ich Mitglied im Verein FTM Schwabing, wo ich intensiv Badminton gespielt habe.
+Meine **Hobbys** drehen sich vor allem um Tischtennis, Badminton und Schwimmen. In der Schule habe ich erfolgreich an verschiedenen Wettbewerben in Badminton und Tischtennis teilgenommen und auch einige gewonnen. Über mehrere Jahre hinweg war ich Mitglied im Verein FTM Schwabing, wo ich intensiv Badminton gespielt habe.
 
 Neben meinen sportlichen Aktivitäten interessiere ich mich leidenschaftlich für Astronomie und Kosmologie. Ich war Mitglied der vietnamesischen Assoziation für Astronomie und Kosmologie und habe dort herausragende Leistungen in den Kursen für Astronomie und Astrophysik erzielt.
 
-In Bezug auf meine akademischen Interessen liegt mein Fokus auf Software Engineering, Problemlösung mit Software und Quantencomputing. Diese Themen faszinieren mich, und ich setze mich aktiv damit auseinander.
+In Bezug auf meine **akademischen Interessen** liegt mein Fokus auf Software Engineering, Problemlösung mit Software und Quantencomputing. Diese Themen faszinieren mich, und ich setze mich aktiv damit auseinander.
 
 </details>
 
@@ -66,11 +66,11 @@ Die nachfolgende Tabelle gibt einen Überblick über meine Selbstbewertung in ve
 - Various Java personal projects.
 - Basics of the database system and database design, including SQL.
 
-My hobbies revolve mainly around table tennis, badminton, and swimming. In school, I successfully participated in various competitions in badminton and table tennis, winning some of them. For several years, I was a member of the FTM Schwabing club, where I actively played badminton.
+My **hobbies** revolve mainly around table tennis, badminton, and swimming. In school, I successfully participated in various competitions in badminton and table tennis, winning some of them. For several years, I was a member of the FTM Schwabing club, where I actively played badminton.
 
 In addition to my athletic activities, I have a passionate interest in astronomy and cosmology. I was a member of the Vietnamese Association for Astronomy and Cosmology, achieving outstanding performance in courses related to astronomy and astrophysics.
 
-Regarding my academic interests, I focus on software engineering, problem-solving with software, and quantum computing. These subjects fascinate me, and I actively engage with them.
+Regarding my **academic interests**, I focus on software engineering, problem-solving with software, and quantum computing. These subjects fascinate me, and I actively engage with them.
 
 </details>
 
