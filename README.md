@@ -50,7 +50,7 @@ Die nachfolgende Tabelle gibt einen Überblick über meine Selbstbewertung in ve
 
 <hr>
 
-**english version**
+***(english version)***
 
 ## Profile
 
