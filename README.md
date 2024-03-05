@@ -1,5 +1,5 @@
 # Hai Nguyen
-*(english version below)*
+
 ## Profil
 
  Hallo, mein Name ist Hai. Ich studiere Informatik und Physik an der LMU München. 
