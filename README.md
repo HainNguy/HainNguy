@@ -6,6 +6,7 @@
  
  <details><summary>Fähigkeiten und persönliche Eigenschaften:</summary>
    <br>
+  
  Momentan befinde ich mich im 5. Fachsemester, in dem ich bisher folgende **Leistungen** erbracht habe:
    
    - Die grundlegenden Softwaretechniken von der Software-Spezifikation bis zur Software-Evolution, darunter UML-Modelle, Agile Entwicklungsmethoden, Scrum, Projektmanagement, Design Patterns, Git, CI/CD, Testtechniken und DevOps.
